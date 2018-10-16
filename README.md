@@ -10,4 +10,4 @@ The p5.js library is used to import the OBJ models and render them using WebGL t
 
 An quadratic easing function is used to create the 'bounce' when each ring rotates.
 
-[View the clock live https://andrewcraigie.github.io/3D_spinner_clock/]([I'm an inline-style link](https://www.google.com)
+[View the clock live https://andrewcraigie.github.io/3D_spinner_clock/](https://andrewcraigie.github.io/3D_spinner_clock/)
